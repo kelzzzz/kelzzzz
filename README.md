@@ -1,4 +1,4 @@
-![Kels's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelzzzz&theme=blue-green)]![LeetCode Stats](https://leetcard.jacoblin.cool/kelzzzz?theme=dark&font=Noto%20Sans%20Linear%20A&ext=heatmap)
+![Kels's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelzzzz&theme=blue-green)![LeetCode Stats](https://leetcard.jacoblin.cool/kelzzzz?theme=dark&font=Noto%20Sans%20Linear%20A&ext=heatmap)
 <!--
 **kelzzzz/kelzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
